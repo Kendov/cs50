@@ -1,4 +1,4 @@
-# Problems sets Harvard
+# Problem sets Harvard
 
 cs50 is an online introductory course on computer science taught at Harvard University
 
